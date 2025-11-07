@@ -104,14 +104,6 @@ Built with **Streamlit** and powered by the **Mistral API**, QueryWhiz makes dat
 
 ---
 
-## 🧑‍💻 Developed By
-
-**Keerthana D**
-*MSc AI | REVA University*
-✨ Passionate about building intelligent, user-friendly data tools.
-
----
-
 ## 📜 License
 
 This project is open source and available under the **MIT License**.
