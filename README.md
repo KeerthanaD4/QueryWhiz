@@ -61,10 +61,10 @@ Built with **Streamlit** and powered by the **Mistral API**, QueryWhiz makes dat
 2. **Install Dependencies**
 
    ```bash
-   python -m venv venv
-   # Activate the virtual environment
+   python -m venv venv # Activate the virtual environment
    # On Windows:
    venv\Scripts\activate
+   
    # On Mac/Linux:
    source venv/bin/activate
 
